@@ -16,6 +16,11 @@ The following mern stack back-end application is to manage an online book system
 npm install
 npm run app
 ```
+
+## Deployement
+- The deployement of the app is carried out to AWS EC2 instances 
+- The github actions was used to create a CI/CD pipeline for deployement to AWS
+
 # File Structure
 - The model of the database is in ``` book.js ```
 - The routing of the APIs is done using ``` express.router ```
