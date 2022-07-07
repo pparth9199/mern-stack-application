@@ -1,4 +1,4 @@
 {
     "mongoURI":
-      "mongodb:http://127.0.0.1:27017/"
+      "mongodb:mongodb+srv://parth91999:parth9199@cluster0.7dg6v.mongodb.net/?retryWrites=true&w=majority"
 }
